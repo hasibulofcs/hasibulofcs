@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Banner</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700&family=Lobster&family=Nunito&family=Playfair+Display:wght@400;900&family=Special+Elite&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      html {
+        color: #f7f7f7;
+      }
+
+      body {
+        height: 100vh;
+        width: 100%;
+        background-color: rgb(65, 64, 64);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .banner {
+        height: 500px;
+        width: 1200px;
+        background: linear-gradient(to left, #030b28, #000b27);
+        position: relative;
+        overflow: hidden;
+      }
+
+      .text {
+        font-family: "Inter", sans-serif;
+      }
+
+      i {
+        height: 30px;
+        width: 30px;
+        box-sizing: border-box;
+      }
+
+      ul li {
+        display: flex;
+        align-items: center;
+      }
+
+      .fa-facebook-square {
+        color: #3b5998;
+        font-size: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .img_outer_div {
+        height: 600px;
+        width: 1000px;
+        background: #f7f7f7;
+        border: 15px solid #bbbbbb;
+        position: absolute;
+        top: -200px;
+        right: -270px;
+        transform: rotateZ(60deg);
+        z-index: 6;
+        overflow: hidden;
+      }
+
+      .myimage {
+        transform: rotateZ(-60deg) scale(1.2) translate(100px, 250px);
+        /* margin-top: 250px; */
+      }
+
+      .white_box {
+        height: 400px;
+        width: 400px;
+        background: #f7f7f7;
+        position: absolute;
+        top: 80%;
+        left: 50%;
+        transform: rotateZ(45deg);
+        z-index: 5;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="banner">
+      <div class="text">
+        <h1>MD. Hasibul Hasan Rasel</h1>
+        <p>BSc. in <br /><span>Computer Science & Engineering</span></p>
+        <section>
+          <ul>
+            <li>
+              <i class="fa-brands fa-facebook-square"></i>
+              <span>facebook.com/hasibul.man.7</span>
+            </li>
+            <li>
+              <i class="fa-brands fa-linkedin"></i>
+              <span>facebook.com/hasibul.man.7</span>
+            </li>
+            <li>
+              <i class="fa-brands fa-youtube"></i>
+              <span>facebook.com/hasibul.man.7</span>
+            </li>
+            <li>
+              <i class="fa-brands fa-github"></i>
+              <span>facebook.com/hasibul.man.7</span>
+            </li>
+          </ul>
+        </section>
+      </div>
+      <div class="img_outer_div rotate">
+        <div class="img_div">
+          <img
+            class="myimage"
+            src="myinage_edit_1.png"
+            alt="myimage"
+            title="Hasibul"
+          />
+        </div>
+      </div>
+      <div class="white_box rotate"></div>
+    </div>
+    <script
+      src="https://kit.fontawesome.com/f7953d3d50.js"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
