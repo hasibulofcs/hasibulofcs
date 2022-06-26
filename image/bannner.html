@@ -16,6 +16,11 @@
       rel="stylesheet"
     />
     <style>
+      @font-face {
+        font-family: "Tesla";
+        src: url("TESLA.ttf");
+      }
+
       * {
         margin: 0;
         padding: 0;
@@ -29,7 +34,7 @@
       body {
         height: 100vh;
         width: 100%;
-        background-color: rgb(65, 64, 64);
+        /* background-color: rgb(65, 64, 64); */
         display: flex;
         justify-content: center;
         align-items: center;
@@ -45,25 +50,84 @@
 
       .text {
         font-family: "Inter", sans-serif;
+        margin: 50px;
+      }
+
+      h1 {
+        font-family: "Tesla", sans-serif;
+        font-variant: small-caps;
+        font-size: 3rem;
+
+        background: -webkit-gradient(
+          linear,
+          left top,
+          left bottom,
+          from(#00dbde),
+          to(#fc00ff)
+        );
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        /*         
+        background-clip: text;
+        color: transparent;
+        background: linear-gradient(90deg, #00dbde, #fc00ff); */
+        display: inline;
+      }
+
+      p {
+        font-size: 1.2rem;
+        margin-top: 50px;
+      }
+
+      p span {
+        font-size: 2rem;
+      }
+
+      .links {
+        margin-top: 60px;
       }
 
       i {
-        height: 30px;
-        width: 30px;
+        /* height: 30px;
+        width: 30px; */
+        font-size: 25px;
         box-sizing: border-box;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      ul {
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
       }
 
       ul li {
         display: flex;
         align-items: center;
+        gap: 10px;
+        font-size: 14px;
+        color: #dd6b0d;
       }
 
       .fa-facebook-square {
         color: #3b5998;
-        font-size: 30px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
+        /* background-color: #fff; */
+      }
+
+      .fa-youtube {
+        font-size: 20px;
+        color: #ff0000;
+      }
+
+      .fa-linkedin {
+        color: #0072b1;
+      }
+
+      .fa-github {
+        font-size: 22px;
+        color: #f7f7f7;
       }
 
       .img_outer_div {
@@ -99,25 +163,31 @@
   <body>
     <div class="banner">
       <div class="text">
-        <h1>MD. Hasibul Hasan Rasel</h1>
-        <p>BSc. in <br /><span>Computer Science & Engineering</span></p>
-        <section>
+        <h1>
+          MD. Hasibul Hasan <br />
+          Rasel ||||
+        </h1>
+        <p>
+          BSc. in <br /><span>Computer Science & Engineering</span>
+          <br />Programming and development
+        </p>
+        <section class="links">
           <ul>
             <li>
               <i class="fa-brands fa-facebook-square"></i>
-              <span>facebook.com/hasibul.man.7</span>
+              <span>facebook.com</span>
             </li>
             <li>
               <i class="fa-brands fa-linkedin"></i>
-              <span>facebook.com/hasibul.man.7</span>
+              <span>linkedin.com/in/md-hasibul-hasan-rasel-5babb823a/</span>
             </li>
             <li>
               <i class="fa-brands fa-youtube"></i>
-              <span>facebook.com/hasibul.man.7</span>
+              <span>youtube.com</span>
             </li>
             <li>
               <i class="fa-brands fa-github"></i>
-              <span>facebook.com/hasibul.man.7</span>
+              <span>github.com/Hasibul-Hasan-ofcs</span>
             </li>
           </ul>
         </section>
