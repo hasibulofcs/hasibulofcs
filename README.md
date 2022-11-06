@@ -3,13 +3,17 @@
 <br>
 <br>
 <h1>🎧Hello!</h1>
-<p>I am <b>Hasibul</b>. Studying currently as a Computer Science student. I am pretty excited exploring innovative programming and development technologies and.. whatever that is happenning under the hood is my point of excitement.
+<p  align="center">I am <b>Hasibul</b>. Studying currently as a Computer Science student. I am pretty excited exploring innovative programming and development technologies and.. whatever that is happenning under the hood is my point of excitement.</p>
 
 <br/><br/><br/>
 
 <h2>My Github Stats</h2><br/>
 
+<div align="center">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasibul-Hasan-ofcs)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <br/><br/><br/>
 
