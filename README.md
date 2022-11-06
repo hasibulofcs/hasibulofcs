@@ -15,7 +15,7 @@
 
 <h2>Connect with me</h2><br/>
 
-<div style="text-align:center">
+<div align="center">
 <a href="https://www.linkedin.com/in/md-hasibul-hasan-rasel-5babb823a/"><img src="./svg/linkedin.svg" height=35px/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://facebook.com"><img src="./svg/facebook.svg" height=35px/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://youtube.com"><img src="./svg/youtube.svg" height=35px/></a>&nbsp;&nbsp;&nbsp;
