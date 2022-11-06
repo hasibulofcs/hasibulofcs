@@ -10,19 +10,19 @@
 <h2>Programming languages</h2><br/>
 
 <div align="center">
-    <a href=""><img src="./svg/java.svg" height=40px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img src="./svg/js.svg" height=40px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img src="./svg/cpp.svg" height=40px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img src="./svg/java.svg" height=50px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img src="./svg/js.svg" height=50px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img src="./svg/cpp.svg" height=50px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
 
 <br/><br/>
 
-<h2>Frameworks</h2><br/>
+<h2>Web Languages</h2><br/>
 
 <div align="center">
-    <a href=""><img src="./svg/html.svg" height=40px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img src="./svg/css.svg" height=40px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img src="./svg/html.svg" height=50px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img src="./svg/css.svg" height=50px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
 <br/><br/>
@@ -30,9 +30,9 @@
 <h2>Libraries & Frameworks</h2><br/>
 
 <div align="center">
-    <a href=""><img src="./svg/reactjs.svg" height=40px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img src="./svg/nodejs.svg" height=40px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img src="./svg/spring_boot.svg" height=40px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img src="./svg/reactjs.svg" height=50px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img src="./svg/nodejs.svg" height=50px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img src="./svg/spring_boot.svg" height=50px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
 
