@@ -3,7 +3,38 @@
 <br>
 <br>
 <h1>🎧Hello!</h1>
-<p  align="center">I am <b>Hasibul</b>. Studying currently as a Computer Science student. I am pretty excited exploring innovative programming and development technologies and.. whatever that is happenning under the hood is my point of excitement.</p>
+<p>I am <b>Hasibul</b>. Studying currently as a Computer Science student. I am pretty excited exploring innovative programming and development technologies and.. whatever that is happenning under the hood is my point of excitement.</p>
+
+<br/><br/><br/>
+
+<h2>Programming languages</h2><br/>
+
+<div align="center">
+    <a href=""><img src="./svg/java.svg" height=40px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img src="./svg/js.svg" height=40px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img src="./svg/cpp.svg" height=40px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</div>
+
+<br/><br/>
+
+<h2>Frameworks</h2><br/>
+
+<div align="center">
+    <a href=""><img src="./svg/html.svg" height=40px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img src="./svg/css.svg" height=40px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</div>
+<br/><br/>
+
+<h2>Libraries & Frameworks</h2><br/>
+
+<div align="center">
+    <a href=""><img src="./svg/reactjs.svg" height=40px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img src="./svg/nodejs.svg" height=40px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img src="./svg/spring_boot.svg" height=40px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</div>
 
 <br/><br/><br/>
 
