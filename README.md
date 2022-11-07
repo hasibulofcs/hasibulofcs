@@ -31,7 +31,7 @@
 
 <div align="center">
     <a title="React JS" href=""><img src="./svg/reactjs.svg" height=50px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a title="Node JS" href=""><img src="./svg/nodejs.svg" height=50px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a title="Node JS" href=""><img src="./svg/node.svg" height=50px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a title="SpringBoot" href="https://spring.io/"><img src="./svg/spring_boot.svg" height=45px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
