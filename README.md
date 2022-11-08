@@ -30,9 +30,10 @@
 <h2>Libraries & Frameworks</h2><br/>
 
 <div align="center">
-    <a title="React JS" href=""><img src="./svg/reactjs.svg" height=50px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a title="Node JS" href=""><img src="./svg/node.svg" height=50px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a title="SpringBoot" href="https://spring.io/"><img src="./svg/spring_boot.svg" height=45px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a title="React JS" href="https://reactjs.org/"><img src="./svg/reactjs.svg" height=50px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a title="Node JS" href="https://nodejs.org"><img src="./svg/nodejs.svg" height=60px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a title="Express JS" href="https://expressjs.com/"><img src="./svg/expressjs.svg" height=50px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a title="SpringBoot Java Web Framework" href="https://spring.io/"><img src="./svg/spring_boot.svg" height=45px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
 
