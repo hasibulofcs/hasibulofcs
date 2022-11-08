@@ -41,19 +41,18 @@
 
 <h2>My Github Stats</h2><br/>
 
-<div align="center">
+<div>
+<span align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasibul-Hasan-ofcs)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+</span>
 
-<br/><br/><br/>
-
-<h2>Most Used Languages</h2><br/>
-
-<div align="center">
+<span align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasibul-Hasan-ofcs)](https://github.com/anuraghazra/github-readme-stats)
+
+</span>
 
 </div>
 
