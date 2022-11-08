@@ -49,6 +49,16 @@
 
 <br/><br/><br/>
 
+<h2>Most Used Languages</h2><br/>
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasibul-Hasan-ofcs)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<br/><br/><br/>
+
 <h2>Connect with me</h2><br/>
 
 <div align="center">
