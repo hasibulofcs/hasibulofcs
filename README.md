@@ -10,9 +10,9 @@
 <h2>Programming languages</h2><br/>
 
 <div align="center">
-    <a title="Java" href=""><img src="./svg/java.svg" height=50px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a title="JavaScript" href=""><img src="./svg/js.svg" height=50px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a title="C Plus Plus" href=""><img src="./svg/cpp.svg" height=50px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a title="Basics of Java" href=""><img src="./svg/java.svg" height=50px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a title="Basics of C Plus Plus" href=""><img src="./svg/cpp.svg" height=50px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
 
@@ -35,7 +35,7 @@
     <a title="React JS" href="https://reactjs.org/"><img src="./svg/reactjs.svg" height=50px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a title="Node JS" href="https://nodejs.org"><img src="./svg/nodejs.svg" height=60px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a title="Express JS" href="https://expressjs.com/"><img src="./svg/expressjs.svg" height=50px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a title="SpringBoot Java Web Framework" href="https://spring.io/"><img src="./svg/spring_boot.svg" height=45px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <!-- <a title="SpringBoot Java Web Framework" href="https://spring.io/"><img src="./svg/spring_boot.svg" height=45px/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 
 </div>
 
@@ -55,27 +55,27 @@
 <h2>My Github Stats</h2><br/>
 
 <div>
-<span align="center">
+<div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasibul-Hasan-ofcs)](https://github.com/anuraghazra/github-readme-stats)
 
-</span>
+</div>
 
-<span align="center">
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasibul-Hasan-ofcs)](https://github.com/anuraghazra/github-readme-stats)
 
-</span>
+</div>
 
 </div>
 
 <br/><br/><br/>
 
-<span align="center">
+<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hasibul-Hasan-ofcs&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-</span>
+</div>
 
 <br/><br/><br/>
 
