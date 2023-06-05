@@ -2,7 +2,7 @@
 <br>
 <br>
 <br>
-<h1>🎧Hello there!</h1>
+<h1>Hi there! 👋</h1>
 <p>I am <b>Hasibul</b>. Currently walking the journey of being a full stack web developer. I'm pretty excited exploring innovative programming and development technologies and.. whatever that is happenning under the hood is my point of excitement.</p>
 
 <br/><br/><br/>
