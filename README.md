@@ -57,29 +57,11 @@
 
 <h2>My Github Stats</h2><br/>
 
-<div>
-<!-- <div align="center"> -->
-<div>
+<div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasibul-Hasan-ofcs)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<!-- <div align="center"> -->
-<div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasibul-Hasan-ofcs)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-</div>
-
-<br/>
-
-<!-- <div align="center"> -->
-<div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hasibul-Hasan-ofcs&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulofcs&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasibulofcs&theme=react&hide_border=false"><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasibulofcs&theme=react">
 
 </div>
 
